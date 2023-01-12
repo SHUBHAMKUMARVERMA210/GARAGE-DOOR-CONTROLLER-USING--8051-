@@ -1,0 +1,3 @@
+".\Objects\DTMF-MODULE.obj" 
+TO ".\Objects\DTMF-MODULE" 
+PRINT(".\Listings\DTMF-MODULE.m51")
